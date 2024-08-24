@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ssofian\\source\\repos\\MainProgram\\Plugins\\Plugins.csproj": {}
+    "C:\\Users\\Ssofian\\source\\repos\\MainProgram\\Plugins\\Plugins.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ssofian\\source\\repos\\MainProgram\\Plugins\\Plugins.csproj": {
+    "C:\\Users\\Ssofian\\source\\repos\\MainProgram\\Plugins\\Plugins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ssofian\\source\\repos\\MainProgram\\Plugins\\Plugins.csproj",
+        "projectUniqueName": "C:\\Users\\Ssofian\\source\\repos\\MainProgram\\Plugins\\Plugins.csproj",
         "projectName": "Plugins",
-        "projectPath": "c:\\Users\\Ssofian\\source\\repos\\MainProgram\\Plugins\\Plugins.csproj",
+        "projectPath": "C:\\Users\\Ssofian\\source\\repos\\MainProgram\\Plugins\\Plugins.csproj",
         "packagesPath": "C:\\Users\\Ssofian\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ssofian\\source\\repos\\MainProgram\\Plugins\\obj\\",
+        "outputPath": "C:\\Users\\Ssofian\\source\\repos\\MainProgram\\Plugins\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
